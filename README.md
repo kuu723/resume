@@ -41,6 +41,7 @@
 	- 사용 기술 : Objective-c
 	- 앱 소개 : kt wiz 구단 앱으로 팬들을 위한 이벤트 및 kt 야구단의 소식을 제공하는 앱
  
+ ![wizzap0](https://raw.githubusercontent.com/kuu723/resume/master/images/baru/wizzap0.jpeg)    ![wizzap1](https://raw.githubusercontent.com/kuu723/resume/master/images/baru/wizzap1.jpeg)
 
 ### 레드큐브
 * __톡깨비__ - 설계,개발 : 2012.12 ~ 2013.1
