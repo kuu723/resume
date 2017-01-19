@@ -41,7 +41,7 @@
 	- 사용 기술 : Objective-c
 	- 앱 소개 : kt wiz 구단 앱으로 팬들을 위한 이벤트 및 kt 야구단의 소식을 제공하는 앱
  
- ![wizzap0](https://raw.githubusercontent.com/kuu723/resume/master/images/baru/wizzap0.jpeg)    ![wizzap1](https://raw.githubusercontent.com/kuu723/resume/master/images/baru/wizzap1.jpeg)
+ ![wizzap0](https://raw.githubusercontent.com/kuu723/resume/master/images/baru/wizzap1.jpeg)    ![wizzap1](https://raw.githubusercontent.com/kuu723/resume/master/images/baru/wizzap0.jpeg)
 
 ### 레드큐브
 * __톡깨비__ - 설계,개발 : 2012.12 ~ 2013.1
@@ -67,12 +67,14 @@
 	- 사용 기술 : Flash script 3.0
 	- 앱 소개 : 유럽(영국,독일,프랑스) FPR 3D 제품 홍보를 위해 크리스마스 이벤트 사이트
 	- 현재 이벤트 종료.
+    
 ![fpr0](https://raw.githubusercontent.com/kuu723/resume/master/images/pc/lg_cns_u_0.jpg)	![fpr1](https://raw.githubusercontent.com/kuu723/resume/master/images/pc/lg_cns_u_1.jpg)	![fpr2](https://raw.githubusercontent.com/kuu723/resume/master/images/pc/lg_cns_u_2.jpg)
 
 * __LG전자 중국 FPR 3D 제품 홍보 사이트__ - 개발 : 2011.6 ~ 2011.9
 	- 사용 기술 : Flash script 3.0
 	- 앱 소개 : 중국 FPR 3D 제품 홍보 이벤트 사이트
 	- 현재 이벤트 종료.
+
 ![fpr-c](https://raw.githubusercontent.com/kuu723/resume/master/images/pc/lg_cns_cn_0.jpg)
 
 [5]: https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8 "wizzap"
