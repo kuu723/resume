@@ -2,8 +2,6 @@
 
 # 이력서
 * mail : seonmin723@gmail.com
-* github : [https://github.com/kuu723](https://github.com/kuu723 "https://github.com/kuu723")
-* blog : [http://kuu723.github.io](http://kuu723.github.io "http://kuu723.github.io")
 
 ## 경력 (5년 10개월)
 * 바루소프트 : __2015.12 ~ 현재__
