@@ -1,12 +1,13 @@
 김선민 Kim Seonmin
 -
-**iOS Developer : Objective-c, swift**
-Mail : <seonmin723@gmail.com>
-github : https://github.com/kuu723
-
+**iOS Developer : Objective-c, swift**  
+- Mail : <seonmin723@gmail.com>  
+- github : https://github.com/kuu723  
+ <br /> <br />
+ 
 경력
 -
-### 바루소프트
+### BaruSoft
 * 2015.12 ~ 현재
 
 ### Redcube
@@ -15,9 +16,9 @@ github : https://github.com/kuu723
 ### Acroverse creative
 * 2008.7 ~ 2011.2
 
-회사 프로젝트
--
-## iOS 개발 프로젝트
+ <br /> <br />
+# 회사 프로젝트
+## iOS
 ### Wizzap
 > 회사 : 바루 소프트
 > 앱소개 : KBO kt wiz 야구단의 공식 어플리케이션. 티켓 예매와 실시간 야구 중계 및 팬들의 커뮤니티 앱
@@ -37,7 +38,9 @@ github : https://github.com/kuu723
 > * 개발 기술 : Objective-c
 > * 앱스토어 : https://itunes.apple.com/kr/app/%EC%97%AC%ED%96%89%EB%B0%95%EC%82%AC-%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4/id552870154?mt=8
 
-### Flash Script Site 개발 프로젝트
+<br />
+
+## Flash Script Site
 #### 대한항공 OX 게임
 > 회사 : Redcube
 > * 개발 기술 : Flash script 3.0
@@ -48,14 +51,16 @@ github : https://github.com/kuu723
 > * 개발 기술 : Flash script 3.0
 > * 유럽(영국,독일,프랑스) FPR 3D 제품 홍보를 위해 크리스마스 이벤트 사이트 & 중국 FPR 3D 제품 홍보 이벤트 사이트
 
-### 모바일 피쳐폰 어플리케이션
+<br />
+
+## 피쳐폰 어플리케이션
 > 회사 : Acroverse creative
 > * 사용 기술 : Flash script 2.0
 > * 쿠키폰, 롤리팝1, KV230, M-polo, SU600, VX9600 - 개발 : 2010.1 - 2011.1
 > * K1 - 개발 : 2009.5 ~ 2009.11
 > * Santorini, Madive - 개발 : 2009.1 ~ 2009.4
 
-
+<br />
 
 개인 프로젝트
 -
