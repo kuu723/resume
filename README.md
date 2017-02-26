@@ -26,6 +26,7 @@
 > * 개발 기술 : Objective-c, SQL lite
 > * 담당 업무 : 유지/보수 및 시즌 고도화 개발 작업.
 > * 앱스토어 : https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8
+> ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap1.jpeg?raw=true)
 
 ### 톡깨비
 > 회사 : Redcube
@@ -38,6 +39,8 @@
 > 앱소개 : 후쿠오카 자유 여행자들을 위한 여행정보 앱
 > * 개발 기술 : Objective-c
 > * 앱스토어 : https://itunes.apple.com/kr/app/%EC%97%AC%ED%96%89%EB%B0%95%EC%82%AC-%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4/id552870154?mt=8
+> ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_2.PNG?raw=true)
+
 
 <br />
 
@@ -69,24 +72,29 @@
 * 개발 기술 : Objective-c
 * 개발 기간 : 2012.8 ~ 2012.9
 * 앱스토어 : https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8
+![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_2.PNG?raw=true)
 	
 ### [Je Diary][3]
 * 소개 : 메모들을 태그로 편리하게 나누어 저장하여 관리할 수 있는 앱.
 * 개발 기술 : Objective-c
 * 개발 기간 : 2015.9
 * 앱스토어 : https://itunes.apple.com/kr/app/je-diary/id1038888108?mt=8
-	
+![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_2.png?raw=true)
+
+
 ### [Pickolor][4]
 * 소개 : 눈에 보이는 색상의 값을 디지털화 시키기 편리한 앱.
 * 개발 기술 : Objective-c
 * 개발 기간 : 2016.11
 * 앱스토어 : https://itunes.apple.com/kr/app/pickolor/id1101625575?mt=8
+![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_1.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_2.jpeg?raw=true)
 
 ### [Marchen Puzzle][2]
 * 소개 : 킬링 타임으로 하기 좋은 슬라이드 퍼즐 게임.
 * 개발 기술 : cocos2d-x, c++
 * 개발 기간 : 2014.5 ~ 2014.7
 * 앱스토어 : https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8
+![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_2.PNG?raw=true)
 
 [1]: https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8 "Name a photo"
 [2]: https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8 "Marchen Puzzle"
