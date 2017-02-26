@@ -17,6 +17,7 @@
 * 2008.7 ~ 2011.2
 
  <br /> <br />
+ 
 # 회사 프로젝트
 ## iOS
 ### Wizzap
@@ -62,27 +63,30 @@
 
 <br />
 
-개인 프로젝트
--
-#### [Name a photo][1]
+# 개인 프로젝트
+### [Name a photo][1]
 * 소개 : 쇼셜에 나의 공유할 때, 나만의 워터마크를 만들어 도장을 찍듯 빠르고 편리하게 사진에 찍어 저장할 수 있는 앱.
 * 개발 기술 : Objective-c
 * 개발 기간 : 2012.8 ~ 2012.9
+* 앱스토어 : https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8
 	
-#### [Je Diary][3]
+### [Je Diary][3]
 * 소개 : 메모들을 태그로 편리하게 나누어 저장하여 관리할 수 있는 앱.
 * 개발 기술 : Objective-c
 * 개발 기간 : 2015.9
+* 앱스토어 : https://itunes.apple.com/kr/app/je-diary/id1038888108?mt=8
 	
-#### [Pickolor][4]
+### [Pickolor][4]
 * 소개 : 눈에 보이는 색상의 값을 디지털화 시키기 편리한 앱.
 * 개발 기술 : Objective-c
 * 개발 기간 : 2016.11
+* 앱스토어 : https://itunes.apple.com/kr/app/pickolor/id1101625575?mt=8
 
-#### [Marchen Puzzle][2]
+### [Marchen Puzzle][2]
 * 소개 : 킬링 타임으로 하기 좋은 슬라이드 퍼즐 게임.
 * 개발 기술 : cocos2d-x, c++
 * 개발 기간 : 2014.5 ~ 2014.7
+* 앱스토어 : https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8
 
 [1]: https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8 "Name a photo"
 [2]: https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8 "Marchen Puzzle"
