@@ -31,6 +31,17 @@
 
 ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap1.jpeg?raw=true)
 
+### inus 서비스센터
+> 회사 : 바루 소프트
+> 앱소개 : inus 제품을 구매한 고객들이 A/S 예약 및 문의 등록 등을 편리하게 사용하기 위해 제작된 앱.
+> * 개발 기술 : Swift, WebKit
+> * 담당 업무 : 설계 및 개발.
+> * 앱스토어 : https://itunes.apple.com/us/app/inus-서비스센터/id1289570519
+
+<br />
+
+![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.jpeg?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.jpeg?raw=true)
+
 ### 톡깨비
 > 회사 : Redcube
 > 앱소개 : 제주도 도깨비 공원과 함께 한국 도깨비들에 대한 정보를 제공하는 앱
