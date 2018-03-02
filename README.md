@@ -42,6 +42,18 @@
 
 ![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.png?raw=true)
 
+
+### U+ 알뜰폰멤버쉽
+> 회사 : 바루 소프트
+> 앱소개 : LG U+ 알뜰폰 고객을 위한 공식 멤버십 어플.
+> * 개발 기술 : Objective-c
+> * 담당 업무 : 유지 보수 및 신규 기능 개발.
+> * 앱스토어 : https://itunes.apple.com/us/app/inus-서비스센터/id1289570519
+
+<br />
+
+![](https://github.com/kuu723/resume/blob/master/images/baru/mvno0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/mvno1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/mvno2.png?raw=true)
+
 ### 톡깨비
 > 회사 : Redcube
 > 앱소개 : 제주도 도깨비 공원과 함께 한국 도깨비들에 대한 정보를 제공하는 앱
