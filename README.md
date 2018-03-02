@@ -58,17 +58,40 @@
 > 회사 : Redcube
 > 앱소개 : 제주도 도깨비 공원과 함께 한국 도깨비들에 대한 정보를 제공하는 앱
 > * 개발 기술 : Objective-c
+> * 담당 업무 : 설계 및 개발.
 > * 앱스토어 : 현재 스토어에서 내려감.
 
 ### 여행박사 후쿠오카편
 > 회사 : Redcube
 > 앱소개 : 후쿠오카 자유 여행자들을 위한 여행정보 앱
 > * 개발 기술 : Objective-c
+> * 담당 업무 : 설계 및 개발.
 > * 앱스토어 : https://itunes.apple.com/kr/app/%EC%97%AC%ED%96%89%EB%B0%95%EC%82%AC-%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4/id552870154?mt=8
 
 <br />
 
 ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_2.PNG?raw=true)
+
+
+### 빨간모자 이야기
+> 회사 : Redcube
+> 앱소개 : 빨간 모자 동화를 읽어주고, 단어 하나하나 학습할 수 있는 동화 어플리케이션.
+> * 담당 업무 : 개발.
+> * 개발 기술 : Objective-c
+
+<br />
+
+![](https://github.com/kuu723/resume/blob/master/images/redcube/redhood0.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/redhood1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/redhood3.jpg?raw=true)
+
+### 트랄라맘
+> 회사 : Redcube
+> 앱소개 : 부모와 아이가 함께 만들어가는 인지 학습 어플. 좋아하는 사물, 동물 등 사진을 찍어 단어를 녹음하여 자신만의 미디어 카드를 만들어 아이들이 공부할 수 있는 어플리케이션.
+> * 담당 업무 : 유지 보수 및 신규 기능 개발.
+> * 개발 기술 : Objective-c
+
+<br />
+
+![](https://github.com/kuu723/resume/blob/master/images/redcube/trala0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/trala1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/trala2.png?raw=true)
 
 
 <br />
