@@ -40,7 +40,7 @@
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.jpeg?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.jpeg?raw=true)
+![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.png?raw=true)
 
 ### 톡깨비
 > 회사 : Redcube
