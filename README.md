@@ -7,6 +7,9 @@
  
 경력
 -
+### WithInnovation
+* 2018.04 ~ Now
+
 ### BaruSoft
 * 2015.12 ~ 2017.12
 
