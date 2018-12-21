@@ -26,172 +26,143 @@
 ## iOS
 
 ### 여기어때
+
+![](https://github.com/kuu723/resume/blob/master/images/within/within_act.png)
+
 > * 회사: 위드이노베이션
 > * 개발 언어: Swift
 > * 사용 라이브러리: SnapKit, Alamofire, Firebase, Crashlytics, Google Analytics, Criteo, lottie 등.
 > * 담당 업무 : 액티비티 서비스 프로젝트 개발 및 유지 보수. 
 > 액티비티의 홈화면, 매거진 개발. 런칭 후 액티비티 카테고리 리스트 등과 함께 액티비티 파트 기능 개발 및 유지 보수
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/within/within_act.png)
-
-### Wizzap
-> 회사 : 바루 소프트
-> 앱소개 : KBO kt wiz 야구단의 공식 어플리케이션. 티켓 예매와 실시간 야구 중계 및 팬들의 커뮤니티 앱
-> * 개발 기술 : Objective-c, SQL lite
-> * 담당 업무 : 유지/보수 및 시즌 고도화 개발 작업.
 > * 앱스토어 : https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8
 
 <br />
 
+### Wizzap
+
 ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/wizzap1.jpeg?raw=true)
 
-### inus 서비스센터
 > 회사 : 바루 소프트
-> 앱소개 : inus 제품을 구매한 고객들이 A/S 예약 및 문의 등록 등을 편리하게 사용하기 위해 제작된 앱.
-> * 개발 기술 : Swift, WebKit
-> * 담당 업무 : 설계 및 개발.
-> * 앱스토어 : https://itunes.apple.com/us/app/inus-서비스센터/id1289570519
-
+> * 개발 언어 : Objective-C
+> * 사용 라이브러리: AFNetworking, SDWebImage, GoogleMaps, GigaBeaconSDK 등 사용.
+> * 담당 업무 : 유지/보수 및 시즌 고도화 개발 작업.
+> * 매해 티켓사의 API 마이그레이션에 맞춰 작업하고, 기타 버그, 장애 대응 및 신규 기능 개발 진행.
+> 신규 개발 부분: 티켓 구매 유저의 이벤트 참가를 위한 체크인 기능. 출석체크. 야구장 주변 맛집 보여주기 등.
+>* 앱스토어 : https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8
 <br />
+
+### inus 서비스센터
 
 ![](https://github.com/kuu723/resume/blob/master/images/baru/inus0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/inus1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/inus2.png?raw=true)
 
-
-### U+ 알뜰폰멤버쉽
 > 회사 : 바루 소프트
-> 앱소개 : LG U+ 알뜰폰 고객을 위한 공식 멤버십 어플.
-> * 개발 기술 : Objective-c
-> * 담당 업무 : 유지 보수 및 신규 기능 개발.
-> * 앱스토어 : https://itunes.apple.com/us/app/inus-서비스센터/id1289570519
+>* 개발 언어 : Swift 4.0
+>* 담당 업무 : 신규 개발.
+>* WKWebView를 사용. 기본적으로 웹뷰 페이지 로드하며, 로그인시 Id, Password 저장 및 로드해주는 기능 개발..
+> * 앱스토어: https://itunes.apple.com/us/app/inus-서비스센터/id1289570519
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/baru/mvno0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/baru/mvno1.png?raw=true)![](https://github.com/kuu723/resume/blob/master/images/baru/mvno2.png?raw=true)
+### 트랄라맘
+
+![](https://github.com/kuu723/resume/blob/master/images/redcube/trala0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/trala1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/trala2.png?raw=true)
+
+> 회사 : Redcube
+> * 개발 언어 : Objective-C
+> * 담당 업무: 유지 보수 및 신규 기능 개발
+> * 앱스토어 : 현재 스토어에서 내려감. ( https://youtu.be/Vff8U8Zw-oA )
 
 ### 톡깨비
 > 회사 : Redcube
-> 앱소개 : 제주도 도깨비 공원과 함께 한국 도깨비들에 대한 정보를 제공하는 앱
-> * 개발 기술 : Objective-c
-> * 담당 업무 : 설계 및 개발.
+> * 개발 언어 : Objective-C
+> * 담당 업무: 설계 및 유지 보수
 > * 앱스토어 : 현재 스토어에서 내려감.
 
+
 ### 여행박사 후쿠오카편
+
+![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_2.PNG?raw=true)
+
 > 회사 : Redcube
-> 앱소개 : 후쿠오카 자유 여행자들을 위한 여행정보 앱
-> * 개발 기술 : Objective-c
-> * 담당 업무 : 설계 및 개발.
+> * 개발 언어 : Objective-C
+> * 담당 업무 : 설계 및 유지 보수
 > * 앱스토어 : https://itunes.apple.com/kr/app/%EC%97%AC%ED%96%89%EB%B0%95%EC%82%AC-%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4/id552870154?mt=8
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/baksa_2.PNG?raw=true)
-
-
-### 빨간모자 이야기
-> 회사 : Redcube
-> 앱소개 : 빨간 모자 동화를 읽어주고, 단어 하나하나 학습할 수 있는 동화 어플리케이션.
-> * 담당 업무 : 개발.
-> * 개발 기술 : Objective-c
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/redcube/redhood0.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/redhood1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/redhood3.jpg?raw=true)
-
-### 트랄라맘
-> 회사 : Redcube
-> 앱소개 : 부모와 아이가 함께 만들어가는 인지 학습 어플. 좋아하는 사물, 동물 등 사진을 찍어 단어를 녹음하여 자신만의 미디어 카드를 만들어 아이들이 공부할 수 있는 어플리케이션.
-> * 담당 업무 : 유지 보수 및 신규 기능 개발.
-> * 개발 기술 : Objective-c
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/redcube/trala0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/trala1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/redcube/trala2.png?raw=true)
-
-
-<br />
-
-## Flash Script Site
-#### 대한항공 OX 게임
-> 회사 : Redcube
-> * 개발 기술 : Flash script 3.0
-> * 2012년 대한항공 아프리카 취항기념으로 7월부터 8월까지 진행한 OX 실시간 게임.
-
-#### LG전자 유럽 FPR 3D 크리스마스 이벤트 사이트, LG전자 중국 FPR 3D 제품 홍보 사이트
-> 회사 : Redcube
-> * 개발 기술 : Flash script 3.0
-> * 유럽(영국,독일,프랑스) FPR 3D 제품 홍보를 위해 크리스마스 이벤트 사이트 & 중국 FPR 3D 제품 홍보 이벤트 사이트
-
-<br />
-
-## 피쳐폰 어플리케이션
-> 회사 : Acroverse creative
-> * 사용 기술 : Flash script 2.0
-> * 쿠키폰, 롤리팝1, KV230, M-polo, SU600, VX9600 - 개발 : 2010.1 - 2011.1
-> * K1 - 개발 : 2009.5 ~ 2009.11
-> * Santorini, Madive - 개발 : 2009.1 ~ 2009.4
-
-<br />
-
 # 개인 프로젝트
-### [Name a photo][1]
-* 소개 : 쇼셜에 나의 공유할 때, 나만의 워터마크를 만들어 도장을 찍듯 빠르고 편리하게 사진에 찍어 저장할 수 있는 앱.
-* 개발 기술 : Objective-c
-* 개발 기간 : 2012.8 ~ 2012.9
-* 앱스토어 : https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_2.PNG?raw=true)
-	
-### [Je Diary][3]
-* 소개 : 메모들을 태그로 편리하게 나누어 저장하여 관리할 수 있는 앱.
-* 개발 기술 : Objective-c
-* 개발 기간 : 2015.9
-* 앱스토어 : https://itunes.apple.com/kr/app/je-diary/id1038888108?mt=8
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_2.png?raw=true)
-
-
-### [Pickolor][4]
-* 소개 : 눈에 보이는 색상의 값을 디지털화 시키기 편리한 앱.
-* 개발 기술 : Objective-c
-* 개발 기간 : 2016.11
-* 앱스토어 : https://itunes.apple.com/kr/app/pickolor/id1101625575?mt=8
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_1.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_2.jpeg?raw=true)
-
-### [Marchen Puzzle][2]
-* 소개 : 킬링 타임으로 하기 좋은 슬라이드 퍼즐 게임.
-* 개발 기술 : cocos2d-x, c++
-* 개발 기간 : 2014.5 ~ 2014.7
-* 앱스토어 : https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8
-
-<br />
-
-![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_2.PNG?raw=true)
-
 
 ### [Macameron][5]
+
+![](https://github.com/kuu723/resume/blob/master/images/hello/macameron0.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/macameron1.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/macameron2.jpg?raw=true)
+
 * 소개 : 필터 카메라 앱
-* 개발 기술 : swift, GPUImage
+* 개발 언어 : Swift
+* 사용 라이브러리: GPUImage
 * 개발 기간 : 2017.1 ~ 2017.3
 * 앱스토어 : https://itunes.apple.com/us/app/macameron/id1189933737
 
 <br />
 
-![](https://github.com/kuu723/resume/blob/master/images/hello/macameron0.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/macameron1.jpg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/macameron2.jpg?raw=true)
+### [미세뿌셔][6]
 
+![](https://github.com/kuu723/resume/blob/master/images/ninjaQQ/dust.png)
+
+* 소개 : 미세먼지 알림 앱
+* 개발 언어 : Swift
+* 사용 라이브러리: SnapKit, Alamofire, Fabric, Crashlytics
+* 개발 기간 : 2018.5 ~ 2018.11
+* 앱스토어: https://itunes.apple.com/kr/app/미세뿌셔/id1444754842?mt=8
+
+### [Pickolor][4]
+
+![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_0.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_1.jpeg?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/picolor_2.jpeg?raw=true)
+
+* 소개 : 눈에 보이는 색상의 값을 디지털화 시키기 편리한 앱.
+* 개발 언어 : Objective-c
+* 개발 기간 : 2016.11
+* 앱스토어 : https://itunes.apple.com/kr/app/pickolor/id1101625575?mt=8
+
+<br />
+
+### [Name a photo][1]
+
+![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/nameaphoto_2.PNG?raw=true)
+
+* 소개 : 쇼셜에 나의 공유할 때, 나만의 워터마크를 만들어 도장을 찍듯 빠르고 편리하게 사진에 찍어 저장할 수 있는 앱.
+* 개발 언어 : Objective-c
+* 개발 기간 : 2012.8 ~ 2012.9
+* 앱스토어 : https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8
+
+<br />
+
+### [Je Diary][3]
+
+![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_0.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_1.png?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/JeDiary_2.png?raw=true)
+
+* 소개 : 메모들을 태그로 편리하게 나누어 저장하여 관리할 수 있는 앱.
+* 개발 언어 : Objective-c
+* 개발 기간 : 2015.9
+* 앱스토어 : https://itunes.apple.com/kr/app/je-diary/id1038888108?mt=8
+
+<br />
+
+### [Marchen Puzzle][2]
+
+![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_0.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_1.PNG?raw=true) ![](https://github.com/kuu723/resume/blob/master/images/hello/marchen_2.PNG?raw=true)
+
+* 소개 : 킬링 타임으로 하기 좋은 슬라이드 퍼즐 게임.
+* 개발 언어 : c++
+* 개발 엔진 : cocos2d-x
+* 개발 기간 : 2014.5 ~ 2014.7
+* 앱스토어 : https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8
+
+<br />
 
 [1]: https://itunes.apple.com/kr/app/name-a-photo/id553518669?mt=8 "Name a photo"
 [2]: https://itunes.apple.com/kr/app/marchen-puzzle/id886107568?mt=8 "Marchen Puzzle"
 [3]: https://itunes.apple.com/kr/app/je-diary/id1038888108?mt=8 "Je Diary"
 [4]: https://itunes.apple.com/kr/app/pickolor/id1101625575?mt=8 "Pickolor"
 [5]: https://itunes.apple.com/us/app/macameron/id1189933737 "마카메롱"
-
+[6]: https://itunes.apple.com/kr/app/미세뿌셔/id1444754842?mt=8 "미세뿌셔"
 
