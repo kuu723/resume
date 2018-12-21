@@ -26,11 +26,12 @@
 ## iOS
 
 ### 여기어때
-> 회사: 위드이노베이션
-> 개발 언어: Swift
-> 사용 라이브러리: SnapKit, Alamofire, Firebase, Crashlytics, Google Analytics, Criteo, lottie 등.
-> 담당 업무 : 액티비티 서비스 프로젝트 개발 및 유지 보수. 
-    액티비티의 홈화면, 매거진 개발. 런칭 후 액티비티 카테고리 리스트 등과 함께 액티비티 파트 기능 개발 및 유지 보수
+> * 회사: 위드이노베이션
+> * 개발 언어: Swift
+> * 사용 라이브러리: SnapKit, Alamofire, Firebase, Crashlytics, Google Analytics, Criteo, lottie 등.
+> * 담당 업무 : 액티비티 서비스 프로젝트 개발 및 유지 보수. 
+> 액티비티의 홈화면, 매거진 개발. 런칭 후 액티비티 카테고리 리스트 등과 함께 액티비티 파트 기능 개발 및 유지 보수
+
 <br />
 
 ![](https://github.com/kuu723/resume/blob/master/images/within/within_act.png)
