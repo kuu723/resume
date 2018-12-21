@@ -1,13 +1,14 @@
 김선민 Kim Seonmin
 -
 **iOS Developer : Objective-c, swift**  
-- Mail : <seonmin723@gmail.com>  
-- github : https://github.com/kuu723  
+- Mail: <seonmin723@gmail.com>  
+- github: https://github.com/kuu723  
+- blog: https://medium.com/@developer.kuu
  <br /> <br />
  
 경력
 -
-### WithInnovation
+### 위드이노베이션
 * 2018.04 ~ Now
 
 ### BaruSoft
