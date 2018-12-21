@@ -17,9 +17,6 @@
 ### Redcube
 * 2011.4 ~ 2013.5
 
-### Acroverse creative
-* 2008.7 ~ 2011.2
-
  <br /> <br />
  
 # 회사 프로젝트
